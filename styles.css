@@ -1,0 +1,20 @@
+#button {
+    width: 220px;
+    height: 100px;
+    font-family: 'BioRhyme Expanded', serif;
+    font-size: 18px;
+}
+
+#image {
+    width: 350px;
+    height: 350px;
+}
+
+#bodycontent {
+    text-align: center;
+}
+
+#words {
+    font-family: 'BioRhyme Expanded', serif;
+    font-size: 50px;
+}
